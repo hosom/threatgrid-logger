@@ -1,0 +1,4 @@
+[logger]
+api_key = key
+statefile = .state
+sleep_interval = 180
